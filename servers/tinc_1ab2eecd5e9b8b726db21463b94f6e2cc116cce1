@@ -3,8 +3,8 @@
 Address = 176.58.96.204
 Address = 2a01:7e00::f03c:91ff:fe70:be26
 
-Subnet = 2001:470:53e3:0:0:0:0:c804/128
-Subnet = fc03:937:ed5a:0:0:0:0:c804/128
+Subnet = 2001:470:53e3:7055:376a:706d:6f33:4f77/128
+Subnet = fc03:937:ed5a:7055:376a:706d:6f33:4f77/128
 
 -----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEAsfqayAb+QuTXN2bDTXvHT2wN22EFbmO3n7cXMNKvxy5a9Pf9va1l
